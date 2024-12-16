@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      body {
+        color: #fff;
+        background-color: #000;
+        background-image: linear-gradient(to bottom, #000, #050505);
+      }
+      #snow {
+        display: block;
+        position: fixed;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        pointer-events: none;
+      }
+    </style>
+    <script src="ShaderProgram.js" defer></script>
+    <script src="main.js" defer></script>
+  </head>
+  <body>
+    <h1>Make it snow...</h1>
+    <div id="snow"></div>
+  </body>
+</html>
