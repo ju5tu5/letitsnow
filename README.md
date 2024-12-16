@@ -1,6 +1,6 @@
 # Make it snow
 
-It's a snowstorm component based on the [beautiful Snowfall WebGL Shader by Boris Šehova](https://github.com/ju5tu5/makeitsnow).
+It's a snowstorm component based on the [beautiful Snowfall WebGL Shader by Boris Šehova](https://github.com/bsehovac/shader-program).
 
 ## Make it work
 
