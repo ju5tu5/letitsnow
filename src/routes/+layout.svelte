@@ -10,7 +10,7 @@
 
 <Footer />
 
-<MakeItSnow/>
+<MakeItSnow count=1000 />
 
 <style>
   :global(body) {
