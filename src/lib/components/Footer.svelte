@@ -3,6 +3,10 @@
 </footer>
 
 <style>
+  footer {
+    position: absolute;
+    bottom: 0;
+  }
   span {
     display: inline-block;
     transform-origin: center;

@@ -1,6 +1,6 @@
 <header>
-  <h1>Make it snow...</h1>
   <img src="picard.jpeg" alt="Picard saying make it snow...">
+  <h1>Make it snow...</h1>
 </header>
 
 <style>
