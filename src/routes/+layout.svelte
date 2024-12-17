@@ -1,7 +1,8 @@
 <script>
-   import { MakeItSnow, Footer, Header } from '$lib'
+  import '$lib/global.css';
+  import { MakeItSnow, Footer, Header } from '$lib'
 
-   	let { children } = $props()
+  let { children } = $props()
 </script>
 
 <Header />
@@ -11,11 +12,3 @@
 <Footer />
 
 <MakeItSnow count=1000 />
-
-<style>
-  :global(body) {
-    color: #fff;
-    background-color: #000;
-    background-image: linear-gradient(to bottom, #000, #050505);
-  }
-</style>
